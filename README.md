@@ -1,4 +1,4 @@
-# Business Assistant — CedarCare (Assignment-Ready)
+# Business Assistant — CedarCare 
 
 This project implements the **CedarCare Wellness Assistant**, aligned with the *Agentic Business Assistant* assignment phases.
 
